@@ -19,6 +19,7 @@ namespace Recovery
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            //online edit
         }
 
         public IConfiguration Configuration { get; }
