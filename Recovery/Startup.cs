@@ -23,6 +23,7 @@ namespace Recovery
             //second online edit
             //third edite locally 
             //fix startup in developement 
+            //fix startup online
         }
 
         public IConfiguration Configuration { get; }
