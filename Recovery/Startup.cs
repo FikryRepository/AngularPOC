@@ -22,6 +22,9 @@ namespace Recovery
             //online edit
             //second online edit
             //third edite locally 
+            //fix startup in developement 
+            //fix startup online
+            //purposing a pull request for review 
         }
 
         public IConfiguration Configuration { get; }
